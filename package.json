@@ -1,0 +1,21 @@
+{
+    "name": "google-colors-theme",
+    "displayName": "google-colors-theme",
+    "description": "Google Colors Theme Light Italic",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Google Colors Theme Light Italic",
+                "uiTheme": "vs",
+                "path": "./themes/Google Colors Theme Light Italic-color-theme.json"
+            }
+        ]
+    }
+}
