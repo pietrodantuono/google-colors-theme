@@ -4,6 +4,7 @@
 	"colors": {
 		"editor.background": "#FFFFFF",
 		"tab.activeBackground": "#FFFFFF",
+		"titleBar.activeForeground": "#FFFFFF",
 		"editorGroupHeader.tabsBorder": "#FFFFFF",
 		"button.foreground": "#FFFFFF",
 		"activityBarBadge.foreground": "#FFFFFF",
@@ -92,7 +93,6 @@
 		"pickerGroup.foreground": "#333333",
 		"breadcrumb.foreground": "#333333",
 		"menu.foreground": "#333333",
-		"titleBar.activeForeground": "#1A1A1A",
 		"quickInput.foreground": "#1A1A1A",
 		"input.foreground": "#1A1A1A",
 		"editorHoverWidget.foreground": "#1A1A1A",
