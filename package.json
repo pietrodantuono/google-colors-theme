@@ -6,9 +6,11 @@
     "engines": {
         "vscode": "^1.54.0"
     },
-    "categories": [
-        "Themes"
-    ],
+    "author": {
+        "name": "pietro.dantuono"
+      },
+      "categories": ["Themes"],
+      "icon": "./images/icon.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +19,9 @@
                 "path": "./themes/Google Colors Theme Light Italic-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pietrodantuono/google-colors-theme.git"
+      },
 }
