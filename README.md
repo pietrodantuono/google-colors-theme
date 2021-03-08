@@ -26,21 +26,25 @@ This theme has been developed under the philosophy "less is more", and features 
 
 ## Screenshots
 
-Here are a bunch of screenshots. I tested a long range of languages, these are just a few.
-You can test them all in this repo:
+Here are a couple of screenshots. I tested a long range of languages, these are just a few.
+You can test them all in uloco's repo:
 https://github.com/uloco/syntax-highlighting-samples
 
-![ipynb](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/ipynb.png)
+![ipynb](./themes/screenshots/ipynb.png?raw=true "ipynb")
 
-![C#](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/C#.png)
+![bash](./themes/screenshots/bash.png?raw=true "bash")
 
-![m](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/m.png)
+![batch](./themes/screenshots/batch.png?raw=true "bat")
 
-![py](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/py.png)
+![m](./themes/screenshots/m.png?raw=true "m")
 
-![php](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/php.png)
+![py](./themes/screenshots/py.png?raw=true "m")
 
-![html](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/html.png)
+![php](./themes/screenshots/php.png?raw=true "php")
 
-![css](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/css.png))
+![html](./themes/screenshots/html.png?raw=true "html")
+
+![cpp](./themes/screenshots/cpp.png?raw=true "cpp")
+
+![java](./themes/screenshots/java.png?raw=true "java")
 
