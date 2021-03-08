@@ -30,16 +30,17 @@ Here are a bunch of screenshots. I tested a long range of languages, these are j
 You can test them all in this repo:
 https://github.com/uloco/syntax-highlighting-samples
 
-![js](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/js.png)
+![ipynb](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/ipynb.png)
 
-![ts](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/ts.png)
+![C#](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/C#.png)
 
-![py](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/py.png)
+![m](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/m.png)
 
-![rb](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/rb.png)
+![py](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/py.png)
 
-![php](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/php.png)
+![php](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/php.png)
 
-![html](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/html.png)
+![html](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/html.png)
 
-![css](https://github.com/uloco/theme-bluloco-dark/raw/main/screenshots/css.png)
+![css](https://github.com/pietrodantuono/google-colors-theme/tree/master/themes/screenshots/css.png))
+
