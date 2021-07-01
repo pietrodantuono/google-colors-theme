@@ -27,7 +27,7 @@ This theme has been developed under the philosophy "less is more", and features 
 ## Screenshots
 
 Here are a couple of screenshots. I tested a long range of languages, these are just a few.
-You can test them all in uloco's repo:
+You can test them all in pietro.dantuono's repo:
 https://github.com/uloco/syntax-highlighting-samples
 
 ![ipynb](./themes/screenshots/ipynb.png?raw=true "ipynb")
